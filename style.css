@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+/*********************
+header section starts
+**********************/
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+/*********************
+header section ends
+**********************/
+
+/*********************
+navigatiion menu starts
+**********************/
+.nav-var {
+    width: 55%;
+    display:inline-block;
+    padding: 1% 7%;
+    float: right;
+    text-align: right;
+    
+}
+a{
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+/*********************
+navigatiion menu ends
+**********************/
+.highlight{
+    color: tomato;
+}
+h1{
+    font-size: 60px;
+}
+p{
+    color: dimgray;
+    margin-bottom: ;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    border: 3px solid tomato;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700px;
+}
+.text-color{
+    color: rgb(46, 46, 99);
+}
+/********************
+banner sectiion starts
+*********************/
+.banner-section{
+    height: 500px;
+    background-color: lightgoldenrodyellow;
+}
+
+#h1{
+    text-align: center;
+    padding: 80px;
+}
+
+.banner{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding: 5px;
+    box-shadow: 10% 10% 40% #ffffff;
+    box-sizing: border-box;
+}
+.banner img{
+    width: 100%;
+}
+/********************
+banner sectiion ends
+*********************/
+
+
+/********************
+bottom section starts
+*********************/
+.bottom-section{
+    margin: 100px;
+}
+.bg-img{
+    width: 800px;
+    height: 200px;
+    background-image: url("images/bg-img.png");
+    border-image-repeat: no-repeat;
+    margin: 0 auto;
+    background-position: left;
+}
+.text-white{
+    color: white;
+    margin-left: 30px;
+}
+.orange{
+    float:right;
+    margin-right: 30px;
+}
+/********************
+bottom section ends
+*********************/
+
+/********************
+footer section starts
+*********************/
+.footer-section{
+    width: 100%;
+    height: 300px;
+}
+.text-center{
+    text-align: center;
+}
+.gray{
+    text-align: center;
+}
+/********************
+footer section ends
+*********************/
