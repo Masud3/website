@@ -4,6 +4,7 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
+    
 
 }
 /*********************
@@ -11,7 +12,7 @@ header section starts
 **********************/
 section{
     height: 400px;
-    padding-bottom: 150px;
+    padding-bottom: 200px;
 }
 .half-width{
     width: 40%;
@@ -73,7 +74,7 @@ p{
 banner sectiion starts
 *********************/
 .banner-section{
-    height: 500px;
+    height: 800px;
     background-color: lightgoldenrodyellow;
 }
 
